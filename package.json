@@ -1,0 +1,11 @@
+{
+  "name": "assignment3",
+  "version": "1.0.0",
+  "description": "COMP 8006 Assignment 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Min Nam",
+  "license": "ISC"
+}
